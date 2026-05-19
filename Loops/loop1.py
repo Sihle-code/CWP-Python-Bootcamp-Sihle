@@ -42,7 +42,6 @@ fruits = ["apple", "banana", "cherry", "blueberry"]
 for x in adj:
     for y in fruits:
         print(x, y)
-pass
 
 f_series = [1, 2, 3, 4.]
 s_series = [2, 3, 4, 5]
